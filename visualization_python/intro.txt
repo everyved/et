@@ -1,0 +1,9 @@
+# Basic Visualization Using Matplotlib
+
+# 1. Components of a Chart
+# A chart typically includes:
+# - Title: Describes the chart.
+# - Axes: X and Y axes to represent data.
+# - Labels: Axis labels and data points.
+# - Legend: Explains the data series.
+# - Grid: Optional gridlines for better readability.

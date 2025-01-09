@@ -1,0 +1,92 @@
+# Introduction to Data: Types and Analysis
+
+## 1. Types of Data: NOIR
+The NOIR framework categorizes data into **Nominal**, **Ordinal**, **Interval**, and **Ratio** scales. These are the four levels of measurement in statistics:
+
+### **Nominal Data**
+- **Definition**: Categorical data with no inherent order.
+- **Examples**: Gender (Male, Female), Colors (Red, Blue, Green), Types of animals (Cat, Dog, Bird).
+- **Characteristics**: 
+  - Cannot be quantified.
+  - Only used for labeling or categorization.
+
+### **Ordinal Data**
+- **Definition**: Categorical data with an inherent order but no consistent differences between values.
+- **Examples**: Education level (High School < Bachelor's < Master's), Customer satisfaction (Low, Medium, High).
+- **Characteristics**:
+  - Can rank data but cannot measure exact differences.
+
+### **Interval Data**
+- **Definition**: Numeric data with consistent intervals between values but no true zero point.
+- **Examples**: Temperature in Celsius or Fahrenheit, Time of day (Clock time).
+- **Characteristics**:
+  - Can perform addition and subtraction.
+  - Ratios are not meaningful (e.g., 20°C is not "twice as hot" as 10°C).
+
+### **Ratio Data**
+- **Definition**: Numeric data with consistent intervals and a true zero point.
+- **Examples**: Height, Weight, Income, Age.
+- **Characteristics**:
+  - Allows all arithmetic operations (addition, subtraction, multiplication, division).
+  - Ratios are meaningful (e.g., 20 kg is twice as heavy as 10 kg).
+
+---
+
+## 2. Continuous and Discrete Numeric Data
+
+### **Continuous Data**
+- **Definition**: Data that can take any value within a range.
+- **Examples**: Height (e.g., 5.7 ft), Temperature (e.g., 36.5°C), Distance (e.g., 10.2 km).
+- **Characteristics**:
+  - Measured data.
+  - Can take fractional or decimal values.
+
+### **Discrete Data**
+- **Definition**: Data that can only take specific values, often whole numbers.
+- **Examples**: Number of students in a class, Number of cars in a parking lot.
+- **Characteristics**:
+  - Counted data.
+  - Cannot take fractional values.
+
+---
+
+## 3. Types of Data Analysis
+
+### **1. Descriptive Analysis**
+- **Definition**: Summarizes and organizes data to describe its main characteristics.
+- **Purpose**: Provides insights into historical data.
+- **Techniques**:
+  - Measures of central tendency (mean, median, mode).
+  - Measures of dispersion (variance, standard deviation).
+  - Data visualization (bar charts, histograms).
+
+### **2. Diagnostic Analysis**
+- **Definition**: Identifies causes of trends or anomalies in data.
+- **Purpose**: Explains why something happened.
+- **Techniques**:
+  - Drill-down analysis.
+  - Correlation and regression analysis.
+  - Root cause analysis.
+
+### **3. Predictive Analysis**
+- **Definition**: Uses historical data to make predictions about future events.
+- **Purpose**: Forecasts outcomes based on trends.
+- **Techniques**:
+  - Machine learning models (e.g., regression, decision trees).
+  - Time series analysis.
+  - Predictive modeling.
+
+### **4. Prescriptive Analysis**
+- **Definition**: Provides actionable recommendations based on data.
+- **Purpose**: Suggests the best course of action.
+- **Techniques**:
+  - Optimization algorithms.
+  - Scenario modeling.
+  - Decision analysis.
+
+---
+
+## Key Takeaways
+1. **Data Types**: Understanding NOIR helps categorize and process data correctly.
+2. **Continuous vs. Discrete**: Differentiating between measured and counted data ensures appropriate analysis.
+3. **Data Analysis**: Use descriptive, diagnostic, predictive, and prescriptive analysis based on the business problem or research question.
