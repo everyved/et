@@ -1,9 +1,20 @@
-# Basic Visualization Using Matplotlib
+# Essentials Tutorial: Basic Visualization Using Matplotlib
+
 
 # 1. Components of a Chart
-# A chart typically includes:
-# - Title: Describes the chart.
-# - Axes: X and Y axes to represent data.
-# - Labels: Axis labels and data points.
-# - Legend: Explains the data series.
-# - Grid: Optional gridlines for better readability.
+# A chart typically includes the following components:
+# - **Title**: Describes the purpose of the chart.
+# - **Axes**: X and Y axes to represent data dimensions.
+# - **Labels**: Descriptive names for the axes.
+# - **Legend**: Explains what each data series represents.
+# - **Grid**: Optional lines for better readability.
+# - **Data**: The actual values being visualized.
+
+# Key Points to Remember:
+# - Line charts are best for showing trends over time.
+# - Scatter charts reveal relationships between variables.
+# - Pie charts visualize proportions within a whole.
+# - Subplots allow comparison of multiple visualizations in one figure.
+
+# Final Tip: Use appropriate chart types based on the data and purpose of visualization.
+
